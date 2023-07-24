@@ -12,14 +12,14 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: CollapseNav/Collapsenav.Net.Tool.Base@master
+      - uses: CollapseNav/Collapsenav.Net.Tool.Base@main
         env:
           GITHUB_TOKEN: ${{ secrets.Token }}
         with:
           COMMIT_MSG: "Specify a custom commit message"
           MAX_LINES: 10
           COMMIT_NAME: GitHub Activity Readme
-      - uses: CollapseNav/Collapsenav.Net.Tool.Data@master
+      - uses: CollapseNav/Collapsenav.Net.Tool.Data@main
         env:
           GITHUB_TOKEN: ${{ secrets.Token }}
         with:
