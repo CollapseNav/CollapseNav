@@ -5,8 +5,10 @@
 
 <table>
   <tr>
-    <td><img src="https://wakatime.com/share/@4b9ce284-c679-48a7-9e3a-fe817a5a7ade/7042b031-4334-4ee6-8426-f931175aae2e.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@4b9ce284-c679-48a7-9e3a-fe817a5a7ade/8d1f4728-db2f-4eaa-9cf7-fc48bd3f34a7.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@4b9ce284-c679-48a7-9e3a-fe817a5a7ade/7042b031-4334-4ee6-8426-f931175aae2e.svg" width="1000" alt="Wakatime"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://wakatime.com/share/@4b9ce284-c679-48a7-9e3a-fe817a5a7ade/8d1f4728-db2f-4eaa-9cf7-fc48bd3f34a7.svg" width="1000" alt="Wakatime"/></td>
   </tr>
 </table>
 
