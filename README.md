@@ -27,6 +27,8 @@
 </div>
 
 
+[![](https://github-profile-trophy.vercel.app/?username=collapsenav&theme=onedark&title=Stars,MultiLanguage,Repositories,Issues,PullRequest,Commits)](https://github.com/CollapseNav?tab=repositories)
+
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/collapsenav/collapsenav/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/collapsenav/collapsenav/profile-snake-contrib/github-contribution-grid-snake.svg" />
