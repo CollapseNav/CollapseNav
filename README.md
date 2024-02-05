@@ -16,22 +16,21 @@
   </tr>
 </table> -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=collapsenav&theme=dracula)](https://github.com/collapsenav?tab=repositories)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=collapsenav&theme=dracula)
 
 <div style="display: inline; float: left;">
 
-[![CollapseNav's GitHub stats](https://github-readme-stats.vercel.app/api?username=collapsenav&theme=algolia)](https://github.com/CollapseNav?tab=repositories)
+<!-- [![CollapseNav's GitHub stats](https://github-readme-stats.vercel.app/api?username=collapsenav&theme=algolia)](https://github.com/CollapseNav?tab=repositories) -->
 
 </div>
 
 <div style="display: inline; float: left;">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=collapsenav&layout=donut-vertical&theme=algolia)](https://github.com/CollapseNav?tab=repositories)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=collapsenav&layout=donut&theme=algolia)
 
 </div>
 
-
-[![](https://github-profile-trophy.vercel.app/?username=collapsenav&theme=onedark&title=Stars,MultiLanguage,Repositories,Issues,PullRequest,Commits)](https://github.com/CollapseNav?tab=repositories)
+![](https://github-profile-trophy.vercel.app/?username=collapsenav&theme=onedark&title=Stars,MultiLanguage,Repositories,Issues,PullRequest,Commits)
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/collapsenav/collapsenav/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
